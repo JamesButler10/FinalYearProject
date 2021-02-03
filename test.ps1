@@ -1,0 +1,1 @@
+.\darknet.exe detector test .\data\obj.data .\yolov4-custom.cfg .\backup\yolov4-custom_best.weights -ext_output .\data\obj\frame_20190905143505_x_0003070.jpg
