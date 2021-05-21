@@ -1,1 +1,0 @@
-.\darknet.exe detector train .\data\obj.data .\yolov4-custom.cfg .\backup\yolov4-custom_last.weights -map
