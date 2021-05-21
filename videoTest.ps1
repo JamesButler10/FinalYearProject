@@ -1,1 +1,0 @@
-.\darknet.exe detector demo .\data\obj.data .\yolov4-custom.cfg .\backup\yolov4-custom_best.weights -ext_output '.\Traffic Management by Drone.mp4'
